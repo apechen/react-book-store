@@ -1,0 +1,9 @@
+body {
+  height: 100%;
+}
+.btn {
+  font-size: 16px;
+  border: none;
+  color: navy;
+  text-align: center;
+}
